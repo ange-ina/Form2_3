@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding-top: 50px;
+}
+form{
+    width: 600px;
+    margin: auto;
+}
+legend{
+    font-size: 1.1em;
+    font-weight: 700;
+}
+label{
+    display: inline-block;
+    font-size: 1.1em;
+    width: 30%;
+    margin: 3px;
+}
+/* .languages{
+    padding-bottom: 20px;
+} */
+.gender-label{
+    display: inline;
+}
+.cmd{
+    display: inline;
+}
+.activity{
+    display: inline;
+}
+select:first-of-type{
+    margin-bottom: 5px;
+}
